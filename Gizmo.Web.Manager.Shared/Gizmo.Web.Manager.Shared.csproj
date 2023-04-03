@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Gizmo.Shared\Gizmo.Shared.csproj" />
+    <ProjectReference Include="..\..\Gizmo.Web.Api.Models\Gizmo.Web.Api.Models.csproj" />
   </ItemGroup>
 
 </Project>
