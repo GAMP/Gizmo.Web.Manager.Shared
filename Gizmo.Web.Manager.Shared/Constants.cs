@@ -7,6 +7,7 @@
             public const string Home = "/";
             public const string Start = "/start";
             public const string SignIn = "/signin";
+            public const string GroupIn = "/groupin";
             public const string Hosts = "/hosts";
             public const string POS = "/pos";
             public const string Users = "/users";
