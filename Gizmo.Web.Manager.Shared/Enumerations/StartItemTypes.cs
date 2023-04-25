@@ -1,6 +1,6 @@
 namespace Gizmo.Web.Manager.Shared
 {
-    public enum StartMenuItemTypes
+    public enum StartItemTypes
     {
         None = 0,
         ClubSelection = 1,
