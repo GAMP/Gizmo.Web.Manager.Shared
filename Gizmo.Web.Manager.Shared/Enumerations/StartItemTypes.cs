@@ -3,7 +3,8 @@ namespace Gizmo.Web.Manager.Shared
     public enum StartItemTypes
     {
         None = 0,
-        ClubSelection = 1,
-        DeviceChoice = 2
+        ClubSelection,
+        DeviceChoice,
+        MoneyEnter,
     }
 }
