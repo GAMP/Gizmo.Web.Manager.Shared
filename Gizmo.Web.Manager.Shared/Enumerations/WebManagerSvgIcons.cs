@@ -6,5 +6,6 @@ namespace Gizmo.Web.Manager.Shared
         User,
         BarAppItem,
         ArrowRight,
+        Spinner,
     }
 }
