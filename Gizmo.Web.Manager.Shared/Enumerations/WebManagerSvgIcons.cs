@@ -6,6 +6,22 @@ namespace Gizmo.Web.Manager.Shared
         User,
         BarAppItem,
         ArrowRight,
+        ArrowLeft,
+        ArrowDown,
+        ArrowUp,
         Spinner,
+        Close,
+        Info,
+        InfoSlim,
+        Success,
+        SuccessSlim,
+        Warning,
+        Error,
+        ErrorSlim,
+        Circle,
+        Plus,
+        Question,
+        QuestionSlim,
+        Search
     }
 }
