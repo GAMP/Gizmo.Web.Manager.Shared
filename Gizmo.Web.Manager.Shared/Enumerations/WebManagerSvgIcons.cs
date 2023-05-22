@@ -22,6 +22,9 @@ namespace Gizmo.Web.Manager.Shared
         Plus,
         Question,
         QuestionSlim,
-        Search
+        Search,
+        List,
+        MenuQuadruple,
+        ThreeLines
     }
 }
