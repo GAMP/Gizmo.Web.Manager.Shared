@@ -10,6 +10,10 @@
             public const string Hosts = "/hosts";
             public const string POS = "/pos";
             public const string Users = "/users";
+            public const string Reservation = "/reservation";
+            public const string Monitoring = "/monitoring";
+            public const string Logs = "/logs";
+            public const string Reports = "/reports";
             public const string Orders = "/orders";
         }
     }
