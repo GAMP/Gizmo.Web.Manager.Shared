@@ -1,6 +1,6 @@
 ﻿namespace Gizmo.Web.Manager.Shared
 {
-    public enum WebManagerSvgIcons
+    public enum SvgIconType
     {
         ArrowDown,
         ArrowLeft,

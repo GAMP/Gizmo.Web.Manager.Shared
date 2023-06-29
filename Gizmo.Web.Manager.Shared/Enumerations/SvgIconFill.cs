@@ -1,6 +1,6 @@
-namespace Gizmo.Web.Manager.Shared
+﻿namespace Gizmo.Web.Manager.Shared
 {
-    public enum WebManagerSvgIconFills
+    public enum SvgIconFill
     {
         Black,
         White,

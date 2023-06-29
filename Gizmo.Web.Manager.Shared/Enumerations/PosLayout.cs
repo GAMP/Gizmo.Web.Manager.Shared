@@ -1,6 +1,6 @@
-namespace Gizmo.Web.Manager.Shared
+﻿namespace Gizmo.Web.Manager.Shared
 {
-    public enum PosLayouts
+    public enum PosLayout
     {
         Default,
         Sales,
