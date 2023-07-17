@@ -34,5 +34,6 @@
         User,
         Warning,
         XHost,
+        Coffee,
     }
 }
