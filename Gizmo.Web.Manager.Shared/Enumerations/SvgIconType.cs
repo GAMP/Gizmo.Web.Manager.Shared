@@ -10,12 +10,14 @@
         Brand,
         Circle,
         Close,
+        Coffee,
         Error,
         ErrorSlim,
         Info,
         InfoSlim,
         List,
         MenuQuadruple,
+        MoneyHand,
         Number,
         Person,
         PersonSlim,
@@ -24,6 +26,8 @@
         PersonGroup,
         PersonGroupSlim,
         Plus,
+        PlusInCircle,
+        RecycleSlim,
         Question,
         QuestionSlim,
         Search,
@@ -33,7 +37,7 @@
         ThreeLines,
         User,
         Warning,
-        XHost,
-        Coffee,
+        WalletSlim,
+        XHost
     }
 }
