@@ -6,6 +6,7 @@
         ArrowLeft,
         ArrowRight,
         ArrowUp,
+        Backspace,
         BarAppItem,
         Gizmo,
         GizmoFull,
