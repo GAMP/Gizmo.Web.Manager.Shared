@@ -8,7 +8,7 @@
         ArrowUp,
         Backspace,
         BalanceClose,
-        BarAppItem,
+        SideBarAppItem,
         Gizmo,
         GizmoFull,
         CashDrawerOpen,
