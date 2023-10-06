@@ -1,0 +1,22 @@
+﻿namespace Gizmo.Web.Manager.Shared
+{
+    public static class ManagerRoutes
+    {
+        public const string SignIn = "/signin"; //TODO: A THIS SHOULD BE THE ROOT
+        public const string SelectBranch = "/selectbranch";
+        public const string SelectRegister = "/selectregister";
+        public const string StartShift = "/startshift";
+
+
+        public const string Home = "/";
+        public const string Start = "/start";
+        public const string Hosts = "/hosts";
+        public const string Pos = "/pos";
+        public const string Users = "/users";
+        public const string Reservation = "/reservation";
+        public const string Monitoring = "/monitoring";
+        public const string Logs = "/logs";
+        public const string Reports = "/reports";
+        public const string Orders = "/orders";
+    }
+}
