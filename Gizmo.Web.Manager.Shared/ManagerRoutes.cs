@@ -11,7 +11,7 @@
         public const string Home = "/";
         public const string Start = "/start";
         public const string Hosts = "/hosts";
-        public const string Pos = "/pos";
+        public const string POS = "/pos";
         public const string Users = "/users";
         public const string Reservation = "/reservation";
         public const string Monitoring = "/monitoring";
