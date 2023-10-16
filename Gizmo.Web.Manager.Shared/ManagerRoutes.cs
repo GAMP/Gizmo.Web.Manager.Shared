@@ -6,6 +6,7 @@
         public const string SelectBranch = "/selectbranch";
         public const string SelectRegister = "/selectregister";
         public const string ShiftStartRoute = "/shiftstart";
+        public const string ShiftEndConfirmationRoute = "/shiftendconfirmation";
         public const string ShiftEndRoute = "/shiftend";
 
 
