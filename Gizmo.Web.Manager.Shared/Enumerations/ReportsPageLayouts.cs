@@ -1,0 +1,30 @@
+﻿namespace Gizmo.Web.Manager.Shared
+{
+    public enum ReportsPageLayouts
+    {
+        ApplicationReport,
+        ApplicationsReport,
+        AssetsLogReport,
+        FinancialReport,
+        HostUsageReport,
+        InvoiceReport,
+        InvoicesLogReport,
+        LicenseReport,
+        LicensesReport,
+        OverviewReport,
+        ProductReport,
+        ProductsReport,
+        ProductsLogReport,
+        SessionsLogReport,
+        ShiftsLogReport,
+        StockReport,
+        TopUsersReport,//
+        TransactionsLogReport,
+        UserReport,//
+        UsersReport,//
+        ZLogReport,//
+        ZReport,//
+        OrdersLogReport,
+        OrdersStatisticsReport
+    }
+}
