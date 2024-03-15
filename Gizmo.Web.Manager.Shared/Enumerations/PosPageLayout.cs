@@ -2,8 +2,7 @@
 {
     public enum PosPageLayout
     {
-        Default,
         Sales,
-        Deposit
+        PaymentLog
     }
 }
