@@ -21,5 +21,6 @@
         public const string Logs = "/logs";
         public const string Reports = "/reports";
         public const string Orders = "/orders";
+        public const string OrdersPayments = "/orderspayments";
     }
 }
