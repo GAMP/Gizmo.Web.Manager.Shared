@@ -2,8 +2,7 @@
 {
     public enum HostsPageLayout
     {
-        Default,
-        Layout1,
-        Layout2
+        Table,
+        Grid
     }
 }
