@@ -1,6 +1,6 @@
 ﻿namespace Gizmo.Web.Manager.Shared
 {
-    public enum HostsPageLayout
+    public enum HostsPageViews
     {
         Table,
         Grid
