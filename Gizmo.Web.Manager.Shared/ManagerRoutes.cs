@@ -23,5 +23,7 @@
         public const string Orders = "/orders";
         public const string OrdersPayments = "/orderspayments";
         public const string OrdersDelivery = "/ordersdelivery";
+
+        public const string WaitingLines = "/waitinglines";
     }
 }
