@@ -25,5 +25,11 @@
         public const string OrdersDelivery = "/ordersdelivery";
 
         public const string WaitingLines = "/waitinglines";
+
+        public const string SettingsHostsComputers = "/settings/hosts/computers";
+        public const string SettingsHostsEndpoints = "/settings/hosts/endpoints";
+        public const string SettingsHostsControllers = "/settings/hosts/controllers";
+        public const string SettingsHostsHostGroups = "/settings/hosts/hostgroups";
+        public const string SettingsHostsLayouts = "/settings/hosts/layouts";
     }
 }
