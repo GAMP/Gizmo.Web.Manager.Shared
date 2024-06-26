@@ -26,6 +26,7 @@
 
         public const string WaitingLines = "/waitinglines";
 
+        public const string SettingsHostsBase = "/settings/hosts";
         public const string SettingsHostsComputers = "/settings/hosts/computers";
         public const string SettingsHostsComputer = "/settings/hosts/computer";
         public const string SettingsHostsEndpoints = "/settings/hosts/endpoints";
@@ -35,6 +36,5 @@
         public const string SettingsHostsHostGroups = "/settings/hosts/hostgroups";
         public const string SettingsHostsHostGroup = "/settings/hosts/hostgroup";
         public const string SettingsHostsLayouts = "/settings/hosts/layouts";
-        public const string SettingsHostsLayout = "/settings/hosts/layout";
     }
 }
