@@ -38,5 +38,7 @@
         public const string SettingsHostsLayouts = "/settings/hosts/layouts";
         public const string SettingsHostsAppGroups = "/settings/hosts/appgroups";
         public const string SettingsHostsAppGroup = "/settings/hosts/appgroup";
+        public const string SettingsAppsApps = "/settings/apps/apps";
+        public const string SettingsAppsApp = "/settings/apps/app";
     }
 }
