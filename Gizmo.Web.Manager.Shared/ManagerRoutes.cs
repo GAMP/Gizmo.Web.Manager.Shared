@@ -40,5 +40,6 @@
         public const string SettingsHostsAppGroup = "/settings/hosts/appgroup";
         public const string SettingsAppsApps = "/settings/apps/apps";
         public const string SettingsAppsApp = "/settings/apps/app";
+        public const string SettingsAppsAppExe = "/settings/apps/appexe";
     }
 }
