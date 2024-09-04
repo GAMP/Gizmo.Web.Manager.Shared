@@ -41,5 +41,9 @@
         public const string SettingsAppsApps = "/settings/apps/apps";
         public const string SettingsAppsApp = "/settings/apps/app";
         public const string SettingsAppsAppExe = "/settings/apps/appexe";
+        public const string SettingsAppsDeployment = "/settings/apps/deployment";
+        public const string SettingsAppsPersonalFile = "/settings/apps/personalfile";
+        public const string SettingsAppsTask = "/settings/apps/task";
+        public const string SettingsAppsLicense = "/settings/apps/license";
     }
 }
