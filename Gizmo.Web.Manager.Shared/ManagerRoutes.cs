@@ -9,14 +9,14 @@
         public const string ShiftEndConfirmationRoute = "/shiftendconfirmation";
         public const string ShiftEndRoute = "/shiftend";
 
-
         public const string Home = "/";
         public const string Start = "/start";
         public const string Hosts = "/hosts";
         public const string POS = "/pos";
         public const string POSPayments = "/pospayments";
-        public const string Users = "/users";
         public const string User = "/user";
+        public const string UserEdit = "/user/edit";
+        public const string Users = "/user/list";
         public const string UserGroup = "/usergroup";
         public const string Reservation = "/reservation";
         public const string Monitoring = "/monitoring";
