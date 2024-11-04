@@ -2,7 +2,7 @@
 {
     public static class ManagerRoutes
     {
-        public const string SignIn = "/signin"; //TODO: A THIS SHOULD BE THE ROOT
+        public const string SignIn = "/signin";
         public const string SelectBranch = "/selectbranch";
         public const string SelectRegister = "/selectregister";
         public const string ShiftStartRoute = "/shiftstart";
