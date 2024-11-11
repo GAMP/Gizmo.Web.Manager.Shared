@@ -47,5 +47,7 @@
         public const string SettingsAppsPersonalFile = "/settings/apps/personalfile";
         public const string SettingsAppsTask = "/settings/apps/task";
         public const string SettingsAppsLicense = "/settings/apps/license";
+
+        public const string DepositVoid = "/depositvoid";
     }
 }
