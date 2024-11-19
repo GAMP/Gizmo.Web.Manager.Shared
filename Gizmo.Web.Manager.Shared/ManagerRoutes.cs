@@ -48,6 +48,11 @@
         public const string SettingsAppsTask = "/settings/apps/task";
         public const string SettingsAppsLicense = "/settings/apps/license";
 
+        public const string ConfigurationGeneral = "/configuration/general";
+        public const string ConfigurationSubscription = "/configuration/subscription";
+        public const string ConfigurationTaxesAndCurrency = "/configuration/taxesandcurrency";
+        public const string ConfigurationBranches = "/configuration/branches";
+
         public const string DepositVoid = "/depositvoid";
     }
 }
