@@ -53,6 +53,7 @@
         public const string ConfigurationOrganisationSubscription = "/configuration/subscription";
         public const string ConfigurationOrganisationTaxesAndCurrency = "/configuration/taxesandcurrency";
         public const string ConfigurationOrganisationBranches = "/configuration/branches";
+        public const string ConfigurationOrganisationBranchEdit = "/configuration/branches/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
