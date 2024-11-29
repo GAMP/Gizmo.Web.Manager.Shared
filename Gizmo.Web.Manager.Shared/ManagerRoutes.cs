@@ -54,6 +54,8 @@
         public const string ConfigurationOrganisationTaxesAndCurrency = "/configuration/taxesandcurrency";
         public const string ConfigurationOrganisationBranches = "/configuration/branches";
         public const string ConfigurationOrganisationBranchEdit = "/configuration/branches/edit";
+        public const string ConfigurationOrganisationAttributes = "/configuration/attributes";
+        public const string ConfigurationOrganisationAttributeEdit = "/configuration/attributes/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
