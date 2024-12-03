@@ -58,6 +58,8 @@
         public const string ConfigurationOrganisationAttributeEdit = "/configuration/attributes/edit";
         public const string ConfigurationOrganisationCompanions = "/configuration/companions";
         public const string ConfigurationOrganisationCompanionEdit = "/configuration/companions/edit";
+        public const string ConfigurationOrganisationRegisters = "/configuration/registers";
+        public const string ConfigurationOrganisationRegisterEdit = "/configuration/registers/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
