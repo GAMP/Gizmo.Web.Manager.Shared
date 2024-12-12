@@ -62,6 +62,8 @@
         public const string ConfigurationOrganisationRegisterEdit = "/configuration/registers/edit";
         public const string ConfigurationOrganisationOperators = "/configuration/operators";
         public const string ConfigurationOrganisationOperatorEdit = "/configuration/operators/edit";
+        public const string ConfigurationOrganisationPermissions = "/configuration/permissions";
+        public const string ConfigurationOrganisationPermissionEdit = "/configuration/permissions/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
