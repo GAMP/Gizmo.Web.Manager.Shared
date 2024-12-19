@@ -49,22 +49,22 @@
         public const string SettingsAppsLicense = "/settings/apps/license";
 
         public const string ConfigurationBase = "/configuration";
-        public const string ConfigurationOrganisationGeneral = "/configuration/general";
-        public const string ConfigurationOrganisationSubscription = "/configuration/subscription";
-        public const string ConfigurationOrganisationTaxesAndCurrency = "/configuration/taxesandcurrency";
-        public const string ConfigurationOrganisationBranches = "/configuration/branches";
-        public const string ConfigurationOrganisationBranchEdit = "/configuration/branches/edit";
-        public const string ConfigurationOrganisationAttributes = "/configuration/attributes";
-        public const string ConfigurationOrganisationAttributeEdit = "/configuration/attributes/edit";
-        public const string ConfigurationOrganisationCompanions = "/configuration/companions";
-        public const string ConfigurationOrganisationCompanionEdit = "/configuration/companions/edit";
-        public const string ConfigurationOrganisationRegisters = "/configuration/registers";
-        public const string ConfigurationOrganisationRegisterEdit = "/configuration/registers/edit";
-        public const string ConfigurationOrganisationOperators = "/configuration/operators";
-        public const string ConfigurationOrganisationOperatorEdit = "/configuration/operators/edit";
-        public const string ConfigurationOrganisationPermissions = "/configuration/permissions";
-        public const string ConfigurationOrganisationPermissionEdit = "/configuration/permissions/edit";
-        public const string ConfigurationOrganisationWaitingLines = "/configuration/waitinglines";
+        public const string ConfigurationOrganizationGeneral = "/configuration/general";
+        public const string ConfigurationOrganizationSubscription = "/configuration/subscription";
+        public const string ConfigurationOrganizationTaxesAndCurrency = "/configuration/taxesandcurrency";
+        public const string ConfigurationOrganizationBranches = "/configuration/branches";
+        public const string ConfigurationOrganizationBranchEdit = "/configuration/branches/edit";
+        public const string ConfigurationOrganizationAttributes = "/configuration/attributes";
+        public const string ConfigurationOrganizationAttributeEdit = "/configuration/attributes/edit";
+        public const string ConfigurationOrganizationCompanions = "/configuration/companions";
+        public const string ConfigurationOrganizationCompanionEdit = "/configuration/companions/edit";
+        public const string ConfigurationOrganizationRegisters = "/configuration/registers";
+        public const string ConfigurationOrganizationRegisterEdit = "/configuration/registers/edit";
+        public const string ConfigurationOrganizationOperators = "/configuration/operators";
+        public const string ConfigurationOrganizationOperatorEdit = "/configuration/operators/edit";
+        public const string ConfigurationOrganizationPermissions = "/configuration/permissions";
+        public const string ConfigurationOrganizationPermissionEdit = "/configuration/permissions/edit";
+        public const string ConfigurationOrganizationWaitingLines = "/configuration/waitinglines";
 
         public const string DepositVoid = "/depositvoid";
     }
