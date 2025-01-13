@@ -66,6 +66,8 @@
         public const string ConfigurationOrganizationPermissionEdit = "/configuration/permissions/edit";
         public const string ConfigurationOrganizationWaitingLines = "/configuration/waitinglines";
         public const string ConfigurationOrganizationAgeRestrictions = "/configuration/agerestrictions";
+        public const string ConfigurationOrganizationVariables = "/configuration/variables";
+        public const string ConfigurationOrganizationVariableEdit = "/configuration/variables/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
