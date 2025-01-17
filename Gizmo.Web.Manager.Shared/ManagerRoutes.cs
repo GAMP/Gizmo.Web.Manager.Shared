@@ -69,6 +69,8 @@
         public const string ConfigurationOrganizationVariables = "/configuration/variables";
         public const string ConfigurationOrganizationVariableEdit = "/configuration/variables/edit";
         public const string ConfigurationOrganizationPlugins = "/configuration/polugins";
+        public const string ConfigurationOrganizationAssistanceRequestTypes = "/configuration/assistancerequesttypes";
+        public const string ConfigurationOrganizationAssistanceRequestTypeEdit = "/configuration/assistancerequesttypes/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
