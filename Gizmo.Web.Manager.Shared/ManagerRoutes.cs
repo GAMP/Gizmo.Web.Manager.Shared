@@ -73,6 +73,7 @@
         public const string ConfigurationOrganizationPlugins = "/configuration/polugins";
         public const string ConfigurationOrganizationAssistanceRequestTypes = "/configuration/assistancerequesttypes";
         public const string ConfigurationOrganizationAssistanceRequestTypeEdit = "/configuration/assistancerequesttypes/edit";
+        public const string ConfigurationOrganizationNetwork = "/configuration/network";
 
         public const string DepositVoid = "/depositvoid";
     }
