@@ -52,6 +52,8 @@
         public const string SettingsMarketingBase = "/settings/marketing";
         public const string SettingsMarketingFeeds = "/settings/marketing/feeds";
         public const string SettingsMarketingFeed = "/settings/marketing/feed";
+        public const string SettingsMarketingNews = "/settings/marketing/news";
+        public const string SettingsMarketingNew = "/settings/marketing/new";
 
         public const string ConfigurationBase = "/configuration";
         public const string ConfigurationOrganizationGeneral = "/configuration/general";
