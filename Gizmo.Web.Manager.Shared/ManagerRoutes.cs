@@ -49,6 +49,9 @@
         public const string SettingsAppsLicense = "/settings/apps/license";
         public const string SettingsHostsSecurityProfiles = "/settings/hosts/securityprofiles";
         public const string SettingsHostsSecurityProfile = "/settings/hosts/securityprofile";
+        public const string SettingsMarketingBase = "/settings/marketing";
+        public const string SettingsMarketingFeeds = "/settings/marketing/feeds";
+        public const string SettingsMarketingFeed = "/settings/marketing/feed";
 
         public const string ConfigurationBase = "/configuration";
         public const string ConfigurationOrganizationGeneral = "/configuration/general";
