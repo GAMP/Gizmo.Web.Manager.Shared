@@ -14,6 +14,7 @@
         public const string Hosts = "/hosts";
         public const string POS = "/pos";
         public const string POSPayments = "/pospayments";
+        public const string POSCloseBalance = "/posclosebalance";
         public const string User = "/user";
         public const string UserEdit = "/user/edit";
         public const string Users = "/user/list";
