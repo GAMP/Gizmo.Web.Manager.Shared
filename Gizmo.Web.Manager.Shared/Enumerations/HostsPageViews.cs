@@ -1,8 +1,8 @@
 ﻿namespace Gizmo.Web.Manager.Shared
 {
-    public enum HostsPageViews
+    public enum HostsPageViews : int
     {
-        Table,
-        Grid
+        Table = 0,
+        Grid = 1
     }
 }
