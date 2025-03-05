@@ -81,6 +81,7 @@
         public const string ConfigurationOrganizationAssistanceRequestTypeEdit = "/configuration/assistancerequesttypes/edit";
         public const string ConfigurationOrganizationNetwork = "/configuration/network";
         public const string ConfigurationOrganizationBackUp = "/configuration/backup";
+        public const string ConfigurationOrganizationMisc = "/configuration/misc";
 
         public const string DepositVoid = "/depositvoid";
     }
