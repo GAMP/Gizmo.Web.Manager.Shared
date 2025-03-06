@@ -82,6 +82,8 @@
         public const string ConfigurationOrganizationNetwork = "/configuration/network";
         public const string ConfigurationOrganizationBackUp = "/configuration/backup";
         public const string ConfigurationOrganizationMisc = "/configuration/misc";
+        public const string ConfigurationOrganizationBillingProfiles = "/configuration/billingprofiles";
+        public const string ConfigurationOrganizationBillingProfileEdit = "/configuration/billingprofiles/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
