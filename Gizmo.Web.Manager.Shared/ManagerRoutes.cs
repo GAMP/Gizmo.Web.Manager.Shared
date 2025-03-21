@@ -84,8 +84,8 @@
         public const string ConfigurationOrganizationMisc = "/configuration/misc";
         public const string ConfigurationOrganizationBillingProfiles = "/configuration/billingprofiles";
         public const string ConfigurationOrganizationBillingProfileEdit = "/configuration/billingprofiles/edit";
-        public const string ConfigurationOrganizationSkins = "/configuration/skins";
-        public const string ConfigurationOrganizationSkinEdit = "/configuration/skins/edit";
+        public const string ConfigurationOrganizationSkinProfiles = "/configuration/skinprofiles";
+        public const string ConfigurationOrganizationSkinProfileEdit = "/configuration/skinprofiles/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
