@@ -88,6 +88,7 @@
         public const string ConfigurationOrganizationSkinProfileEdit = "/configuration/skinprofiles/edit";
         public const string ConfigurationOrganizationTimeOffers = "/configuration/timeoffers";
         public const string ConfigurationOrganizationTimeOfferEdit = "/configuration/timeoffers/edit";
+        public const string ConfigurationOrganizationClientShell = "/configuration/clientshell";
 
         public const string DepositVoid = "/depositvoid";
     }
