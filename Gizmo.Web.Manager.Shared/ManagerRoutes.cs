@@ -89,6 +89,9 @@
         public const string ConfigurationOrganizationTimeOffers = "/configuration/timeoffers";
         public const string ConfigurationOrganizationTimeOfferEdit = "/configuration/timeoffers/edit";
         public const string ConfigurationOrganizationClientShell = "/configuration/clientshell";
+        public const string ConfigurationServerCommunicationMethods = "/configuration/communicationmethods";
+        public const string ConfigurationServerCommunicationMethodSMTPEdit = "/configuration/communicationmethodsmtp";
+        public const string ConfigurationServerCommunicationMethodSMSEdit = "/configuration/communicationmethodsms";
 
         public const string DepositVoid = "/depositvoid";
     }
