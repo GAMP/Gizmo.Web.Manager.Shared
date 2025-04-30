@@ -97,6 +97,7 @@
         public const string ConfigurationCommunicationMethods = "/configuration/communicationmethods";
         public const string ConfigurationCommunicationMethodSMTPEdit = "/configuration/smtp/edit";
         public const string ConfigurationCommunicationMethodSMSEdit = "/configuration/sms/edit";
+        public const string ConfigurationNotifications = "/configuration/notifications";
 
         public const string DepositVoid = "/depositvoid";
     }
