@@ -98,6 +98,7 @@
         public const string ConfigurationCommunicationMethodSMTPEdit = "/configuration/smtp/edit";
         public const string ConfigurationCommunicationMethodSMSEdit = "/configuration/sms/edit";
         public const string ConfigurationNotifications = "/configuration/notifications";
+        public const string ConfigurationFileSystem = "/configuration/filesystem";
 
         public const string DepositVoid = "/depositvoid";
     }
