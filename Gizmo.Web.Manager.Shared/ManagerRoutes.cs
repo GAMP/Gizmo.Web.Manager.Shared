@@ -99,6 +99,7 @@
         public const string ConfigurationCommunicationMethodSMSEdit = "/configuration/sms/edit";
         public const string ConfigurationNotifications = "/configuration/notifications";
         public const string ConfigurationFileSystem = "/configuration/filesystem";
+        public const string ConfigurationPaymentMethods = "/configuration/paymentmethods";
 
         public const string DepositVoid = "/depositvoid";
     }
