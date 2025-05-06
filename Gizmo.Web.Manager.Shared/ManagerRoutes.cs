@@ -100,6 +100,8 @@
         public const string ConfigurationNotifications = "/configuration/notifications";
         public const string ConfigurationFileSystem = "/configuration/filesystem";
         public const string ConfigurationPaymentMethods = "/configuration/paymentmethods";
+        public const string ConfigurationPaymentMethodEdit = "/configuration/paymentmethods/edit";
+        public const string ConfigurationSelectPaymentProvider = "/configuration/selectpaymentprovider";
 
         public const string DepositVoid = "/depositvoid";
     }
