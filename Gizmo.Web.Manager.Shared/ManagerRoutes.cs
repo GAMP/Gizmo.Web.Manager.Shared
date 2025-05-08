@@ -102,6 +102,7 @@
         public const string ConfigurationPaymentMethods = "/configuration/paymentmethods";
         public const string ConfigurationPaymentMethodEdit = "/configuration/paymentmethods/edit";
         public const string ConfigurationSelectPaymentProvider = "/configuration/selectpaymentprovider";
+        public const string ConfigurationReservations = "/configuration/reservations";
 
         public const string DepositVoid = "/depositvoid";
     }
