@@ -95,8 +95,8 @@
         public const string ConfigurationTimeOfferEdit = "/configuration/timeoffers/edit";
         public const string ConfigurationClientShell = "/configuration/clientshell";
         public const string ConfigurationCommunicationMethods = "/configuration/communicationmethods";
-        public const string ConfigurationCommunicationMethodSMTPEdit = "/configuration/smtp/edit";
-        public const string ConfigurationCommunicationMethodSMSEdit = "/configuration/sms/edit";
+        public const string ConfigurationCommunicationMethodSMTPEdit = "/configuration/communicationmethods/smtp";
+        public const string ConfigurationCommunicationMethodSMSEdit = "/configuration/communicationmethods/sms";
         public const string ConfigurationNotifications = "/configuration/notifications";
         public const string ConfigurationFileSystem = "/configuration/filesystem";
         public const string ConfigurationPaymentMethods = "/configuration/paymentmethods";
