@@ -50,6 +50,8 @@
         public const string SettingsAppsPersonalFile = "/settings/apps/personalfile";
         public const string SettingsAppsTask = "/settings/apps/task";
         public const string SettingsAppsLicense = "/settings/apps/license";
+        public const string SettingsHostsAssetTypes = "/settings/hosts/assettypes";
+        public const string SettingsHostsAssetType = "/settings/hosts/assettype";
 
         public const string SettingsMarketingBase = "/settings/marketing";
         public const string SettingsMarketingFeeds = "/settings/marketing/feeds";
