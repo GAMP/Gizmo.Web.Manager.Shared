@@ -107,6 +107,7 @@
         public const string ConfigurationReservations = "/configuration/reservations";
         public const string ConfigurationUserAgreements = "/configuration/useragreements";
         public const string ConfigurationUserAgreementEdit = "/configuration/useragreements/edit";
+        public const string ConfigurationInvoices = "/configuration/invoices";
 
         public const string DepositVoid = "/depositvoid";
     }
