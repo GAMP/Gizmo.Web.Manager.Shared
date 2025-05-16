@@ -108,6 +108,8 @@
         public const string ConfigurationUserAgreements = "/configuration/useragreements";
         public const string ConfigurationUserAgreementEdit = "/configuration/useragreements/edit";
         public const string ConfigurationInvoices = "/configuration/invoices";
+        public const string ConfigurationScheduleReports = "/configuration/schedules/reports";
+        public const string ConfigurationScheduleReportEdit = "/configuration/schedules/reports/edit";
 
         public const string DepositVoid = "/depositvoid";
     }
