@@ -83,7 +83,7 @@
         public const string ConfigurationAgeRestrictions = "/configuration/agerestrictions";
         public const string ConfigurationVariables = "/configuration/variables";
         public const string ConfigurationVariableEdit = "/configuration/variables/edit";
-        public const string ConfigurationPlugins = "/configuration/polugins";
+        public const string ConfigurationPlugins = "/configuration/plugins";
         public const string ConfigurationAssistanceRequestTypes = "/configuration/assistancerequesttypes";
         public const string ConfigurationAssistanceRequestTypeEdit = "/configuration/assistancerequesttypes/edit";
         public const string ConfigurationNetwork = "/configuration/network";
