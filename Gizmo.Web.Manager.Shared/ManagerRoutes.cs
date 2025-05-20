@@ -52,6 +52,7 @@
         public const string SettingsAppsLicense = "/settings/apps/license";
         public const string SettingsHostsAssetTypes = "/settings/hosts/assettypes";
         public const string SettingsHostsAssetType = "/settings/hosts/assettype";
+        public const string SettingsHostsTasks = "/settings/hosts/tasks";
 
         public const string SettingsMarketingBase = "/settings/marketing";
         public const string SettingsMarketingFeeds = "/settings/marketing/feeds";
