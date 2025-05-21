@@ -53,6 +53,7 @@
         public const string SettingsHostsAssetTypes = "/settings/hosts/assettypes";
         public const string SettingsHostsAssetType = "/settings/hosts/assettype";
         public const string SettingsHostsTasks = "/settings/hosts/tasks";
+        public const string SettingsHostsShellTriggers = "/settings/hosts/shelltriggers";
 
         public const string SettingsMarketingBase = "/settings/marketing";
         public const string SettingsMarketingFeeds = "/settings/marketing/feeds";
