@@ -64,6 +64,12 @@
         public const string SettingsShopBase = "/settings/shop";
         public const string SettingsShopStocks = "/settings/shop/stocks";
         public const string SettingsShopStock = "/settings/shop/stock";
+        public const string SettingsShopProducts = "/settings/shop/products";
+        public const string SettingsShopProduct = "/settings/shop/product";
+        public const string SettingsShopBundles = "/settings/shop/bundles";
+        public const string SettingsShopBundle = "/settings/shop/bundle";
+        public const string SettingsShopProductGroups = "/settings/shop/productgroups";
+        public const string SettingsShopProductGroup = "/settings/shop/productgroup";
 
         public const string ConfigurationBase = "/configuration";
         public const string ConfigurationGeneral = "/configuration/general";
