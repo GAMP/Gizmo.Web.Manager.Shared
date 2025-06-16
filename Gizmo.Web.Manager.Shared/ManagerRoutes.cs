@@ -70,6 +70,7 @@
         public const string SettingsShopBundle = "/settings/shop/bundle";
         public const string SettingsShopProductGroups = "/settings/shop/productgroups";
         public const string SettingsShopProductGroup = "/settings/shop/productgroup";
+        public const string SettingsShopStockTransactions = "/settings/shop/stocktransaction";
 
         public const string ConfigurationBase = "/configuration";
         public const string ConfigurationGeneral = "/configuration/general";
