@@ -71,6 +71,7 @@
         public const string SettingsShopProductGroups = "/settings/shop/productgroups";
         public const string SettingsShopProductGroup = "/settings/shop/productgroup";
         public const string SettingsShopStockTransactions = "/settings/shop/stocktransaction";
+        public const string SettingsShopStockCount = "/settings/shop/stockcount";
 
         public const string ConfigurationBase = "/configuration";
         public const string ConfigurationGeneral = "/configuration/general";
