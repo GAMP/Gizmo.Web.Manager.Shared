@@ -73,6 +73,7 @@
         public const string SettingsShopStockTransactions = "/settings/shop/stocktransaction";
         public const string SettingsShopStockCounts = "/settings/shop/stockcounts";
         public const string SettingsShopStockCount = "/settings/shop/stockcount";
+        public const string SettingsShopStockCountReview = "/settings/shop/stockcountreview";
 
         public const string ConfigurationBase = "/configuration";
         public const string ConfigurationGeneral = "/configuration/general";
