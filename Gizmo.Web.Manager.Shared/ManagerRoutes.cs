@@ -76,6 +76,7 @@
         public const string SettingsShopStockCountReview = "/settings/shop/stockcountreview";
         public const string SettingsShopInventories = "/settings/shop/inventories";
         public const string SettingsShopInventory = "/settings/shop/inventory";
+        public const string SettingsShopInventoryReview = "/settings/shop/inventoryreview";
         public const string SettingsShopInventoryInbound = "/settings/shop/inventory/inbound";
 
         public const string ConfigurationBase = "/configuration";
