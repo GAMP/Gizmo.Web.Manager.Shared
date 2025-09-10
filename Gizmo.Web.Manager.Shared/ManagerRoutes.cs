@@ -21,6 +21,7 @@
         public const string UserGroup = "/usergroup";
         public const string Reservations = "/reservations";
         public const string Reservation = "/reservation";
+        public const string ReservationOffer = "/reservationoffer";
         public const string Monitoring = "/monitoring";
         public const string Logs = "/logs";
         public const string Reports = "/reports";
