@@ -20,8 +20,10 @@
         public const string Users = "/user/list";
         public const string UserGroup = "/usergroup";
         public const string Reservations = "/reservations";
-        public const string Reservation = "/reservation";
+        public const string ReservationEdit = "/reservation";
         public const string ReservationOffer = "/reservationoffer";
+        public const string ReservationReview = "/reservationreview";
+        public const string ReservationOfferPayment = "/reservationofferpayment";
         public const string Monitoring = "/monitoring";
         public const string Logs = "/logs";
         public const string Reports = "/reports";
