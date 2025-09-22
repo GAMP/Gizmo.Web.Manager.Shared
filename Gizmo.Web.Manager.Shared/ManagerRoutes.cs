@@ -86,6 +86,8 @@
         public const string SettingsShopStockItems = "/settings/shop/stockitems";
         public const string SettingsShopDiscounts = "/settings/shop/discounts";
         public const string SettingsShopDiscount = "/settings/shop/discount";
+        public const string SettingsShopDiscountGroups = "/settings/shop/discountgroups";
+        public const string SettingsShopDiscountGroup = "/settings/shop/discountgroup";
 
         public const string ConfigurationBase = "/configuration";
         public const string ConfigurationGeneral = "/configuration/general";
