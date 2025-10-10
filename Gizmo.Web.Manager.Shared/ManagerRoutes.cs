@@ -13,8 +13,8 @@
         public const string Start = "/start";
         public const string Hosts = "/hosts";
         public const string POS = "/pos";
-        public const string POSPayments = "/pospayments";
-        public const string POSCloseBalance = "/posclosebalance";
+        public const string POSPaymentsCart = "/pospayments";
+        public const string POSPaymentsCloseBalance = "/posclosebalance";
         public const string User = "/user";
         public const string UserEdit = "/user/edit";
         public const string Users = "/user/list";
@@ -23,13 +23,12 @@
         public const string ReservationCreate = "/reservation";
         public const string ReservationOffer = "/reservationoffer";
         public const string ReservationReview = "/reservationreview";
-        public const string ReservationOfferPayment = "/reservationofferpayment";
         public const string ReservationEdit = "/reservationedit";
         public const string Monitoring = "/monitoring";
         public const string Logs = "/logs";
         public const string Reports = "/reports";
         public const string Orders = "/orders";
-        public const string OrdersPayments = "/orderspayments";
+        public const string POSPaymentsOrder = "/orderspayments";
         public const string OrdersDelivery = "/ordersdelivery";
 
         public const string WaitingLines = "/waitinglines";
