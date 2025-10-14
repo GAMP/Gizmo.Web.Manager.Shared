@@ -19,7 +19,9 @@
         public const string POSPaymentsCloseBalance = "/pos/closebalance";
         public const string User = "/user";
         public const string UserEdit = "/user/edit";
-        public const string Users = "/user/list";
+        public const string UsersBase = "/users";
+        public const string UsersUsers = "/users/users";
+        public const string UsersGroups = "/users/groups";
         public const string UserGroup = "/usergroup";
         public const string Reservations = "/reservations";
         public const string ReservationCreate = "/reservation";
