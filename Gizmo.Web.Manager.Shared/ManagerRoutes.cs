@@ -23,7 +23,9 @@
         public const string UsersUsers = "/users/users";
         public const string UsersGroups = "/users/groups";
         public const string UserGroup = "/usergroup";
-        public const string Reservations = "/reservations";
+        public const string ReservationsBase = "/reservations";
+        public const string ReservationsCalendar = "/reservations/calendar";
+        public const string ReservationsLog = "/reservations/log";
         public const string ReservationCreate = "/reservation";
         public const string ReservationOffer = "/reservationoffer";
         public const string ReservationReview = "/reservationreview";
