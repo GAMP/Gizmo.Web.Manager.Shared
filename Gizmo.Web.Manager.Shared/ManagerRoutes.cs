@@ -12,9 +12,11 @@
         public const string Home = "/";
         public const string Start = "/start";
         public const string Hosts = "/hosts";
-        public const string POS = "/pos";
-        public const string POSPaymentsCart = "/pospayments";
-        public const string POSPaymentsCloseBalance = "/posclosebalance";
+        public const string POSBase = "/pos";
+        public const string POSSales = "/pos/sales";
+        public const string POSPaymentLog = "/pos/paymentlog";
+        public const string POSPaymentsCart = "/pos/payments";
+        public const string POSPaymentsCloseBalance = "/pos/closebalance";
         public const string User = "/user";
         public const string UserEdit = "/user/edit";
         public const string Users = "/user/list";
@@ -27,9 +29,11 @@
         public const string Monitoring = "/monitoring";
         public const string Logs = "/logs";
         public const string Reports = "/reports";
-        public const string Orders = "/orders";
-        public const string POSPaymentsOrder = "/orderspayments";
-        public const string OrdersDelivery = "/ordersdelivery";
+        public const string OrdersBase = "/orders";
+        public const string OrdersActive = "/orders/active";
+        public const string OrdersHistory = "/orders/history";
+        public const string OrdersDelivery = "/orders/delivery";
+        public const string POSPaymentsOrder = "/orders/payments";
 
         public const string WaitingLines = "/waitinglines";
 
