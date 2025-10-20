@@ -17,6 +17,8 @@
         public const string POSPaymentLog = "/pos/paymentlog";
         public const string POSPaymentsCart = "/pos/payments";
         public const string POSPaymentsCloseBalance = "/pos/closebalance";
+        public const string POSInvoices = "/pos/invoices";
+        public const string POSDeposits = "/pos/deposits";
         public const string User = "/user";
         public const string UserEdit = "/user/edit";
         public const string UsersBase = "/users";
