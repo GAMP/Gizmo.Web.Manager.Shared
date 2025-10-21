@@ -18,7 +18,10 @@
         public const string POSPaymentsCart = "/pos/payments";
         public const string POSPaymentsCloseBalance = "/pos/closebalance";
         public const string POSInvoices = "/pos/invoices";
+        public const string POSInvoice = "/pos/invoice";
+        public const string POSInvoiceVoid = "/pos/invoice/void";
         public const string POSDeposits = "/pos/deposits";
+        public const string POSDepositVoid = "/pos/deposit/void";
         public const string User = "/user";
         public const string UserEdit = "/user/edit";
         public const string UsersBase = "/users";
@@ -148,7 +151,5 @@
         public const string ConfigurationScheduleReports = "/configuration/schedules/reports";
         public const string ConfigurationScheduleReportEdit = "/configuration/schedules/reports/edit";
         public const string ConfigurationTimeProducts = "/configuration/timeproducts";
-
-        public const string DepositVoid = "/depositvoid";
     }
 }
