@@ -18,7 +18,7 @@
         public const string POSPaymentLog = "/pos/paymentlog";
         public const string POSPaymentsCart = "/pos/payments";
         public const string POSPaymentsCloseBalance = "/pos/closebalance";
-        public const string POSInvoices = "/pos/invoices";
+        public const string POSOrders = "/pos/orders";
         public const string POSInvoice = "/pos/invoice";
         public const string POSInvoiceVoid = "/pos/invoice/void";
         public const string POSOnlinePayments = "/pos/onlinepayments";
