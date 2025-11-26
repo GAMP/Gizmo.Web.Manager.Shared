@@ -44,7 +44,6 @@
         public const string Reports = "/reports";
         public const string OrdersBase = "/orders";
         public const string OrdersActive = "/orders/active";
-        public const string OrdersHistory = "/orders/history";
         public const string OrdersDelivery = "/orders/delivery";
         public const string POSPaymentsOrder = "/orders/payments";
 
