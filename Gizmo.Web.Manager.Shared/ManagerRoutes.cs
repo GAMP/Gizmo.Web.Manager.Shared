@@ -46,6 +46,9 @@
         public const string OrdersActive = "/orders/active";
         public const string OrdersDelivery = "/orders/delivery";
         public const string POSPaymentsOrder = "/orders/payments";
+        public const string ManagementBase = "/management";
+        public const string ManagementProcesses = "/management/processes";
+        public const string ManagementTasks = "/management/tasks";
 
         public const string WaitingLines = "/waitinglines";
 
