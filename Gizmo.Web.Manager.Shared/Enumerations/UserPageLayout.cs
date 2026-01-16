@@ -2,7 +2,7 @@
 {
     public enum UserPageLayout : int
     {
-        Purchases = 0,
+        Orders = 0,
         TimeProducts = 1,
         Sessions = 2,
         Deposits = 3,
