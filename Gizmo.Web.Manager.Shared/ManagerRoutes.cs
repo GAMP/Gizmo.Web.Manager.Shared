@@ -25,6 +25,7 @@
         public const string POSOnlinePayments = "/pos/onlinepayments";
         public const string POSPaymentsInvoice = "/pos/invoice/payments";
         public const string POSDeposits = "/pos/deposits";
+        public const string POSDeposit = "/pos/deposit";
         public const string POSDepositVoid = "/pos/deposit/void";
         public const string POSPayInOut = "/pos/payinout";
         public const string User = "/user";
