@@ -143,8 +143,10 @@
         public const string ConfigurationBillingProfileEdit = "/configuration/billingprofiles/edit";
         public const string ConfigurationSkinProfiles = "/configuration/skinprofiles";
         public const string ConfigurationSkinProfileEdit = "/configuration/skinprofiles/edit";
-        public const string ConfigurationTimeOffers = "/configuration/timeoffers";
-        public const string ConfigurationTimeOfferEdit = "/configuration/timeoffers/edit";
+        public const string ConfigurationTimeOffersBase = "/configuration/timeoffers";
+        public const string ConfigurationTimeOffers = "/configuration/timeoffers/timeoffers";
+        public const string ConfigurationTimeOfferEdit = "/configuration/timeoffers/timeoffers/edit";
+        public const string ConfigurationTimeOffersPriorities = "/configuration/timeoffers/priorities";
         public const string ConfigurationClientShell = "/configuration/clientshell";
         public const string ConfigurationCommunicationMethods = "/configuration/communicationmethods";
         public const string ConfigurationCommunicationMethodSMTPEdit = "/configuration/communicationmethods/smtp";
@@ -160,6 +162,5 @@
         public const string ConfigurationInvoices = "/configuration/invoices";
         public const string ConfigurationScheduleReports = "/configuration/schedules/reports";
         public const string ConfigurationScheduleReportEdit = "/configuration/schedules/reports/edit";
-        public const string ConfigurationTimeProducts = "/configuration/timeproducts";
     }
 }
