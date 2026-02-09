@@ -138,7 +138,6 @@
         public const string ConfigurationAssistanceRequestTypeEdit = "/configuration/assistancerequesttypes/edit";
         public const string ConfigurationNetwork = "/configuration/network";
         public const string ConfigurationBackUp = "/configuration/backup";
-        public const string ConfigurationMisc = "/configuration/misc";
         public const string ConfigurationBillingProfiles = "/configuration/billingprofiles";
         public const string ConfigurationBillingProfileEdit = "/configuration/billingprofiles/edit";
         public const string ConfigurationSkinProfiles = "/configuration/skinprofiles";
