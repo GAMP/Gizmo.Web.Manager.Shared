@@ -133,6 +133,8 @@
         public const string ConfigurationAgeRestrictions = "/configuration/agerestrictions";
         public const string ConfigurationVariables = "/configuration/variables";
         public const string ConfigurationVariableEdit = "/configuration/variables/edit";
+        public const string ConfigurationBanReasons = "/configuration/banreasons";
+        public const string ConfigurationBanReasonEdit = "/configuration/banreasons/edit";
         public const string ConfigurationPlugins = "/configuration/plugins";
         public const string ConfigurationAssistanceRequestTypes = "/configuration/assistancerequesttypes";
         public const string ConfigurationAssistanceRequestTypeEdit = "/configuration/assistancerequesttypes/edit";
