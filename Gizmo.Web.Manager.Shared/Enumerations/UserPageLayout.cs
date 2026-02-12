@@ -8,6 +8,7 @@
         Deposits = 3,
         Assets = 4,
         Notes = 5,
-        Stats = 6
+        Stats = 6,
+        Bans = 7
     }
 }
