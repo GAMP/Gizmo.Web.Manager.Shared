@@ -87,6 +87,12 @@
         public const string SettingsMarketingFeed = "/settings/marketing/feed";
         public const string SettingsMarketingNews = "/settings/marketing/news";
         public const string SettingsMarketingNew = "/settings/marketing/new";
+        public const string SettingsShopDiscounts = "/settings/marketing/discounts";
+        public const string SettingsShopDiscount = "/settings/marketing/discount";
+        public const string SettingsShopDiscountGroups = "/settings/marketing/discountgroups";
+        public const string SettingsShopDiscountGroup = "/settings/marketing/discountgroup";
+        public const string SettingsShopPromotions = "/settings/marketing/promotions";
+        public const string SettingsShopPromotion = "/settings/marketing/promotion";
 
         public const string SettingsShopBase = "/settings/shop";
         public const string SettingsShopStocks = "/settings/shop/stocks";
@@ -106,12 +112,6 @@
         public const string SettingsShopInventoryReview = "/settings/shop/inventoryreview";
         public const string SettingsShopInventoryInbound = "/settings/shop/inventory/inbound";
         public const string SettingsShopStockItems = "/settings/shop/stockitems";
-        public const string SettingsShopDiscounts = "/settings/shop/discounts";
-        public const string SettingsShopDiscount = "/settings/shop/discount";
-        public const string SettingsShopDiscountGroups = "/settings/shop/discountgroups";
-        public const string SettingsShopDiscountGroup = "/settings/shop/discountgroup";
-        public const string SettingsShopPromotions = "/settings/shop/promotions";
-        public const string SettingsShopPromotion = "/settings/shop/promotion";
 
         public const string ConfigurationBase = "/configuration";
         public const string ConfigurationGeneral = "/configuration/general";
