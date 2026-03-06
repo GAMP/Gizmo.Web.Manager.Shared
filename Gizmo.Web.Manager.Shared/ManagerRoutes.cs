@@ -52,6 +52,7 @@
         public const string ManagementBase = "/management";
         public const string ManagementProcesses = "/management/processes";
         public const string ManagementTasks = "/management/tasks";
+        public const string ManagementFiles = "/management/files";
 
         public const string WaitingLines = "/waitinglines";
 
