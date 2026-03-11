@@ -70,7 +70,7 @@
         public const string SettingsHostsAppGroup = "/settings/hosts/appgroup";
         public const string SettingsHostsSecurityProfiles = "/settings/hosts/securityprofiles";
         public const string SettingsHostsSecurityProfile = "/settings/hosts/securityprofile";
-        public const string SettingsAppsApps = "/settings/apps/apps";
+        public const string SettingsAppsApps = "/settings/hosts/apps";
         public const string SettingsAppsApp = "/settings/apps/app";
         public const string SettingsAppsAppExe = "/settings/apps/appexe";
         public const string SettingsAppsDeployment = "/settings/apps/deployment";
