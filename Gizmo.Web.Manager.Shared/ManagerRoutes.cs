@@ -167,5 +167,6 @@
         public const string ConfigurationInvoices = "/configuration/invoices";
         public const string ConfigurationScheduleReports = "/configuration/schedules/reports";
         public const string ConfigurationScheduleReportEdit = "/configuration/schedules/reports/edit";
+        public const string ConfigurationAbout = "/configuration/about";
     }
 }
