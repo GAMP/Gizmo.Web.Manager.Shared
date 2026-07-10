@@ -7,6 +7,7 @@
         public const string SelectRegister = "/select/register";
         public const string ShiftStart = "/shift/start";
         public const string ShiftEnd = "/shift/end";
+        public const string ShiftClosed = "/shift/closed";
         public const string ShiftsManage = "/shifts/manage";
 
         public const string Home = "/";
