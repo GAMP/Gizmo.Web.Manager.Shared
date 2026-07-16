@@ -156,6 +156,7 @@
         public const string ConfigurationCommunicationMethods = "/configuration/communicationmethods";
         public const string ConfigurationCommunicationMethodSMTPEdit = "/configuration/communicationmethods/smtp";
         public const string ConfigurationCommunicationMethodSMSEdit = "/configuration/communicationmethods/sms";
+        public const string ConfigurationVerificationMethods = "/configuration/verificationmethods";
         public const string ConfigurationNotifications = "/configuration/notifications";
         public const string ConfigurationFileSystem = "/configuration/filesystem";
         public const string ConfigurationPaymentMethods = "/configuration/paymentmethods";
