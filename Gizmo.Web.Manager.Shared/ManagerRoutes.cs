@@ -88,6 +88,11 @@
         public const string SettingsMarketingFeed = "/settings/marketing/feed";
         public const string SettingsMarketingNews = "/settings/marketing/news";
         public const string SettingsMarketingNew = "/settings/marketing/new";
+        public const string SettingsMarketingAchievements = "/settings/marketing/achievements";
+        public const string SettingsMarketingAchievement = "/settings/marketing/achievement";
+        public const string SettingsMarketingLadder = "/settings/marketing/ladder";
+        public const string SettingsMarketingChallenges = "/settings/marketing/challenges";
+        public const string SettingsMarketingChallenge = "/settings/marketing/challenge";
         public const string SettingsShopDiscounts = "/settings/marketing/discounts";
         public const string SettingsShopDiscount = "/settings/marketing/discount";
         public const string SettingsShopDiscountGroups = "/settings/marketing/discountgroups";
