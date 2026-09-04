@@ -37,6 +37,7 @@
         public const string UsersUsers = "/users/users";
         public const string UsersGroups = "/users/groups";
         public const string UsersVerificationCodes = "/users/verificationcodes";
+        public const string UsersRewards = "/users/rewards";
         public const string UserGroup = "/usergroup";
         public const string ReservationsBase = "/reservations";
         public const string ReservationsCalendar = "/reservations/calendar";

@@ -9,6 +9,7 @@
         Assets = 4,
         Notes = 5,
         Stats = 6,
-        Bans = 7
+        Bans = 7,
+        Rewards = 8
     }
 }
