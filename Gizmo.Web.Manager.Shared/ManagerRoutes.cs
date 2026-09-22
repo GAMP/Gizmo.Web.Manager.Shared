@@ -168,6 +168,7 @@
         public const string ConfigurationVerificationMethodAdd = "/configuration/verificationmethods/add";
         public const string ConfigurationVerificationMethodEdit = "/configuration/verificationmethods/edit";
         public const string ConfigurationNotifications = "/configuration/notifications";
+        public const string ConfigurationActionCenter = "/configuration/actioncenter";
         public const string ConfigurationFileSystem = "/configuration/filesystem";
         public const string ConfigurationPaymentMethods = "/configuration/paymentmethods";
         public const string ConfigurationPaymentMethodEdit = "/configuration/paymentmethods/edit";
