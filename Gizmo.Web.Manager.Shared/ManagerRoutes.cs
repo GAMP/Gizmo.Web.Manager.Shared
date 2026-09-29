@@ -161,9 +161,7 @@
         public const string ConfigurationTimeOfferEdit = "/configuration/timeoffers/timeoffers/edit";
         public const string ConfigurationTimeOffersPriorities = "/configuration/timeoffers/priorities";
         public const string ConfigurationClientShell = "/configuration/clientshell";
-        public const string ConfigurationCommunicationMethods = "/configuration/communicationmethods";
         public const string ConfigurationCommunicationMethodSMTPEdit = "/configuration/communicationmethods/smtp";
-        public const string ConfigurationCommunicationMethodSMSEdit = "/configuration/communicationmethods/sms";
         public const string ConfigurationVerificationMethods = "/configuration/verificationmethods";
         public const string ConfigurationVerificationMethodAdd = "/configuration/verificationmethods/add";
         public const string ConfigurationVerificationMethodEdit = "/configuration/verificationmethods/edit";
